@@ -1,0 +1,64 @@
+
+Topics:
+
+  1. JSON Parsing
+
+      string to object JSON.parse
+
+      object to string JSON.stringfy
+  
+  3. Rest operation
+      used to destructure, & then structure the rest all elements of an Object or Array
+
+    Object destructuring, spread & resting
+      Please use the above for accessing the values of an object or array
+
+  4. Object property shorthand
+
+  5. Template literals
+
+  
+  OOPS in JavaScript:
+    OOP --> Object Oriented Programming
+
+    Creating a imaginary object or entity using computer Programming
+
+    then using those imaginary objects as real-time entity into any application 
+
+    is called OOP
+
+    Swiggy --> 
+      Imaginary Objects:
+        Food, Restaurant, Delivery Partner
+
+      What are all the information need to visualize above objects
+
+        Food --> ( name, Image, Qty( ML, Kg, Pieces ), price )
+        Restaurant --> ( Name, location, rating )
+
+  class --> used to create blueprint of any type
+  
+  using new keyword for creating an object
+
+
+Task:
+
+  Refer the OOPs.jpg file,
+
+  DOG:
+    attributes: height, weight, color, breed
+    methods: run, bark  
+
+    Create three different real world object referring to the image,
+
+    
+  **No Need to attempt the task for Day 5 today.**
+
+  You can start it after next class ( 2023-10-28 )
+
+
+
+Next Session:
+    constructor
+    normal function vs arrow function
+    2. Nested destructuring

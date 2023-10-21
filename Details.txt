@@ -47,12 +47,12 @@ Task:
 
   DOG:
     attributes: height, weight, color, breed
-    methods: run, bark  
+    methods: run, bark
 
     Create three different real world object referring to the image,
 
     
-  **No Need to attempt the task for Day 5 today.**
+  **No Need to attempt the task for Day 5 today. No need to Submit today**
 
   You can start it after next class ( 2023-10-28 )
 

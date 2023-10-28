@@ -15,7 +15,8 @@ Topics:
 
   4. Object property shorthand
 
-  5. Template literals
+  5. Template literals:
+      ${} --> inside this we can use variable & expressions
 
   
   OOPS in JavaScript:
